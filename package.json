@@ -2,6 +2,7 @@
   "name": "lesson-site",
   "displayName": "lesson-site",
   "description": "you can find lesson in your vs code",
+  "publisher": "Irina",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.58.0"

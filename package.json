@@ -4,7 +4,7 @@
   "description": "you can find lesson in your vs code",
   "publisher": "Irina",
   "icon": "images/logo-vsLearn.png",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "galleryBanner": {
     "color": "#1e1e1e",
     "theme": "light"

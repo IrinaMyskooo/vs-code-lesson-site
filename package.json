@@ -2,6 +2,7 @@
   "name": "lesson-site",
   "displayName": "lesson-site",
   "description": "you can find lesson in your vs code",
+  "icon": "/images/lessonsite-logo.png",
   "publisher": "Irina",
   "version": "0.0.2",
   "engines": {
